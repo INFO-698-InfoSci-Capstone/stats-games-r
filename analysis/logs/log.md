@@ -72,6 +72,6 @@ Write anything that you think would be important for YOU later on.
 4/4/25
 12:30pm-4pm: Finish project proposal and email it to Dr.Wetherell for approval and signature
 4pm-4:30pm: Update log in Github
-
+4:30-5pm: Updating RShiny code and testing it
 ---
 
