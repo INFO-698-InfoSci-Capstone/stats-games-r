@@ -76,6 +76,7 @@ Write anything that you think would be important for YOU later on.
 7-8pm: Fixing criteria and running the game
 
 4/9/25
-1pm-
+1pm-2:30pm
+
 ---
 
