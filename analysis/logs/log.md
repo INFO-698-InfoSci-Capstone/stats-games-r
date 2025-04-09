@@ -70,9 +70,12 @@ Write anything that you think would be important for YOU later on.
 3-7pm: Work on project proposal
 
 4/4/25
-12:30pm-4pm: Finish project proposal and email it to Dr.Wetherell for approval and signature
-4pm-4:30pm: Update log in Github
-4:30-5pm: Updating RShiny code and testing it
+12:30pm-5pm: Finish project proposal and email it to Dr.Wetherell for approval and signature, Update log in Github, Updating RShiny code and testing it
 
+4/8/25
+7-8pm: Fixing criteria and running the game
+
+4/9/25
+1pm-
 ---
 
