@@ -81,6 +81,9 @@ Write anything that you think would be important for YOU later on.
 4/12/25
 6pm-7pm: Still trying to fix code for game
 
+4/13/25
+7pm-9pm: Working on code logic and code for sound
+
 
 ---
 
