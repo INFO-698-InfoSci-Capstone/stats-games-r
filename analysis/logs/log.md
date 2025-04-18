@@ -84,6 +84,8 @@ Write anything that you think would be important for YOU later on.
 4/13/25
 7pm-9pm: Working on code logic and code for sound
 
+4/17/25
+2pm-4pm: Fixing project code and meeting with Dr.Wetherell
 
 ---
 
