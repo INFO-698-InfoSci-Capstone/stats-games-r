@@ -111,5 +111,9 @@ Write anything that you think would be important for YOU later on.
 4pm-6pm: Updating new criteria
 2hrs
 
+4/21/25
+3pm-5pm: Updating criteria and researching stretch goals
+2hrs
+
 ---
 
