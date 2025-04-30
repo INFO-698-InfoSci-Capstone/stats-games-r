@@ -127,5 +127,9 @@ Write anything that you think would be important for YOU later on.
 5pm-8:30pm: Implementing and testing stretch goals, testing sound
 3.5hrs
 
+4/30/25
+10am-1pm: Adding leaderboard stretch goal, testing and attepting to deploy to shinyapps.io
+3hrs
+
 ---
 
