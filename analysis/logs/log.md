@@ -115,5 +115,17 @@ Write anything that you think would be important for YOU later on.
 3pm-5pm: Updating criteria and researching stretch goals
 2hrs
 
+4/23/25
+10am-12pm: Updating criteria and researching stretch goals
+2hrs
+
+4/26/25
+4pm-7pm: Implementing and testing stretch goals
+3hrs
+
+4/29/25
+5pm-8:30pm: Implementing and testing stretch goals, testing sound
+3.5hrs
+
 ---
 
