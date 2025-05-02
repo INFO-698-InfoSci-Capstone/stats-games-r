@@ -131,5 +131,9 @@ Write anything that you think would be important for YOU later on.
 10am-1pm: Adding leaderboard stretch goal, testing and attepting to deploy to shinyapps.io
 3hrs
 
+5/1/25
+3pm-6:30pm: Meeting with Dr Wetherell and fixing stretch goals
+3.5hrs
+
 ---
 
