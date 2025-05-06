@@ -135,5 +135,9 @@ Write anything that you think would be important for YOU later on.
 3pm-6:30pm: Meeting with Dr Wetherell and fixing stretch goals
 3.5hrs
 
+5/5/25
+4pm-6pm: Finishing up stretch goal on leaderboard and finalizing code to get ready to test with other people
+2hrs
+
 ---
 
