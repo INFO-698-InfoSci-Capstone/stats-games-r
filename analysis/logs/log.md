@@ -139,5 +139,9 @@ Write anything that you think would be important for YOU later on.
 4pm-6pm: Finishing up stretch goal on leaderboard and finalizing code to get ready to test with other people
 2hrs
 
+5/7/26
+3pm-5pm: Wrapping up game, got all criteria to run properly. Testing of the game with multiple users was also done.
+2hrs
+
 ---
 
