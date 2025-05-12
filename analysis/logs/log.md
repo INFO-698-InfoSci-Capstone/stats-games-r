@@ -4,23 +4,24 @@
 Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-activity-and-worksheet#:~:text=%22Rose%2C%20Bud%2C%20Thorn%22%20is%20a%20mindful%20design%2D,day%2C%20week%2C%20or%20month.) model:
 
 ### Date: 
-Week number, today's date, etc. 
+Project work and research took place from: 2/22/25-5/8/25
 
 
 ### Number of hours: 
-A quantity of hours, maybe towards specific tasks. 
+I spent appriximately 63.2 hours of work on this project. This included reseach, writing code, meetings with Dr. Wetherell and testing the game.
 
 ### Rose:
-The highlight from the previous weekly/bi-weekly working period, such as something you found particularly rewarding. This could also be something you're excited to implement now.
+Something I found rewarding with this project was realizing I can fully put together a project for a real-life situation. Meaning, creating a game that Dr. Wetherell will be distributing amoung the students in her classes. I also was proud that after writing 700+ lines of code, I was able to get an entire project to run smoothly.
 
 ### Bud: 
-Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future. 
+I am looking forward to applying the skills and logic I learned from creating this game and using it for future RShiny games. I also discovered a way to store leaderboard data via Google Sheets, which will be useful for the future.
 
 ### Thorn: 
-Something that was challenging that could be worked on, such as anything that wasn't 100% clear and could be elaborated on. Any sticking points should be addressed here. 
+The most challenging aspect of this project was attepting to get the sound to work efficiently. I was able to implement it in a functioning way, but I would like to perfect to code used so I can use it for future projects. Also, I would like to attept to use Visual Studio to store a functioning leaderboard for future games.
 
-## Additional thought
-Write anything that you think would be important for YOU later on.
+## Additional thoughts
+Always remember to have a seperate UI and Server script to send an RShiny project to shinyapps.io
+Find a way to simplify code so it is easy to keep track of (condense it)
 
 
 
@@ -142,6 +143,10 @@ Write anything that you think would be important for YOU later on.
 5/7/26
 3pm-5pm: Wrapping up game, got all criteria to run properly. Testing of the game with multiple users was also done.
 2hrs
+
+5/8/25
+5pm-6pm: Finalizing and sending off final code to Dr.Wetherell via Github so she can upload her feedback
+1hr
 
 ---
 
