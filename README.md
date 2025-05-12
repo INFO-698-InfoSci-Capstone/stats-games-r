@@ -1,10 +1,10 @@
-# Project compendium template
+# RShiny Statistics Game
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## A compendium of code, data, and author's manuscript accompanying the manuscript:
 
-#### TBD
+#### A statistics game that displays a randomly generated scatterplot and asks questions relating to said generated scatterplot
 
 
 ## Overview
