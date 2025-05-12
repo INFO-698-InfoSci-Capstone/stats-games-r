@@ -8,7 +8,7 @@ Project work and research took place from: 2/22/25-5/8/25
 
 
 ### Number of hours: 
-I spent appriximately 63.2 hours of work on this project. This included reseach, writing code, meetings with Dr. Wetherell and testing the game.
+I spent appriximately 64.2 hours of work on this project. This included reseach, writing code, meetings with Dr. Wetherell and testing the game.
 
 ### Rose:
 Something I found rewarding with this project was realizing I can fully put together a project for a real-life situation. Meaning, creating a game that Dr. Wetherell will be distributing amoung the students in her classes. I also was proud that after writing 700+ lines of code, I was able to get an entire project to run smoothly.
@@ -146,6 +146,10 @@ Find a way to simplify code so it is easy to keep track of (condense it)
 
 5/8/25
 5pm-6pm: Finalizing and sending off final code to Dr.Wetherell via Github so she can upload her feedback
+1hr
+
+5/11/25
+7pm-8pm: Updating all logs and README.md files to conclude my work for this capstone!!
 1hr
 
 ---
