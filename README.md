@@ -2,13 +2,12 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## A compendium of code, data, and author's manuscript accompanying the manuscript:
-
+## This projects main goal is to work towards displaying specific questions related to a randomly generated scatterplot, adding postive and negative sounds, attepting to include a point leaderbaord and a way to track someones individual scores and notifiy them when they answer too many questions incorrect.
 #### A statistics game that displays a randomly generated scatterplot and asks questions relating to said generated scatterplot
 
 
 ## Overview
-This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container
+A statistics game that displays a randomly generated scatterplot and asks questions relating to said generated scatterplot
 
 ## File Organization
 
